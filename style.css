@@ -1,0 +1,8 @@
+.centercontent{
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  background-color: #FFF;
+}
+.background{
+  background: url(background-inside.jpg), #FFF;
+}
